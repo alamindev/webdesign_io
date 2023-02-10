@@ -1,6 +1,6 @@
 # webdesign-io Project
 
-## - ![#f03c15]( Here is my Contact info- Can you please add me skype or send me a message via Gmail?)`#f03c15`
+## Here my Contact info- Can you please add me skype or send me a message via Gmail?
 
 Gmail: mdalamin6554@gmail.com
 
@@ -8,7 +8,7 @@ Gmail: mdalamin6554@gmail.com
 
 Skype: live:mdalamin6554_1
 
-##
+###
 
 ## Project live link
 
