@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Outfit:wght@200;300;400;500;600;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.offer-carousel .ssr-carousel-dots,
+.opinion-carousel .ssr-carousel-dots,
+.service-carousel .ssr-carousel-dots {
+    margin-top: 20px !important;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.offer-carousel .ssr-carousel-dot-icon  ,
+.opinion-carousel .ssr-carousel-dot-icon  ,
+.service-carousel .ssr-carousel-dot-icon {
+    width: 30px !important;
+    border: 0 !important;
+    background: #E0E0E0;
+    height: 3px !important;
+}
+.opinion-carousel [disabled]>.ssr-carousel-dot-icon ,
+.service-carousel [disabled]>.ssr-carousel-dot-icon { 
+    background: #B19B85 !important;
+    width: 50px !important;
+}
+.offer-carousel [disabled]>.ssr-carousel-dot-icon { 
+    background: #fff !important;
+    width: 50px !important;
+}
+
+.culture-carousel .ssr-carousel-dot-icon {
+    width: 16px !important;
+    border: 0 !important;
+    background: #B19B85;
+    border-radius: 100% !important;
+    height: 16px !important;
+}
+.culture-carousel [disabled]>.ssr-carousel-dot-icon { 
+    background: #F8E8D9 !important; 
+}
+
+.opinion-carousel .ssr-carousel-mask { 
+    overflow : visible !important;
+}
+
+.accordion-item-enter-active,
+.accordion-item-leave-active {
+    will-change: height;
+    transition: height 0.1s ease-in;
+}
+
+.accordion-item-enter,
+.accordion-item-leave-to {
+    height: 0 !important;
+}
+
+ 
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+ 
+
+.custom-checkbox:checked+label:before {
+    background: #008C95;
+    border: 0 !important;
+}
+
+
+.custom-checkbox:checked+label:after {
+    content: url('data:image/svg+xml;utf8,<svg width="11" height="14" viewBox="0 0 11 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 7.5L4 11.5L9.5 1" stroke="white" stroke-width="2" /></svg>');
+    position: absolute;
+    left: 5px;
+    top: 0px;
+    width: 5px;
+}
+

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "abonnements",
+    "path": "/abonnements",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\abonnements.vue",
+    "chunkName": "pages/abonnements",
+    "_name": "_452470ec"
+  },
+  {
+    "name": "agenda",
+    "path": "/agenda",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\agenda.vue",
+    "chunkName": "pages/agenda",
+    "_name": "_2bdba964"
+  },
+  {
+    "name": "agenda-details",
+    "path": "/agenda-details",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\agenda-details.vue",
+    "chunkName": "pages/agenda-details",
+    "_name": "_1cad2843"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_2e15ad59"
+  },
+  {
+    "name": "concours",
+    "path": "/concours",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\concours.vue",
+    "chunkName": "pages/concours",
+    "_name": "_ae6affec"
+  },
+  {
+    "name": "create-account",
+    "path": "/create-account",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\create-account.vue",
+    "chunkName": "pages/create-account",
+    "_name": "_11a86f9e"
+  },
+  {
+    "name": "create-account-modal",
+    "path": "/create-account-modal",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\create-account-modal.vue",
+    "chunkName": "pages/create-account-modal",
+    "_name": "_ebbc5c84"
+  },
+  {
+    "name": "culture",
+    "path": "/culture",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\culture.vue",
+    "chunkName": "pages/culture",
+    "_name": "_034cd848"
+  },
+  {
+    "name": "filter",
+    "path": "/filter",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\filter.vue",
+    "chunkName": "pages/filter",
+    "_name": "_2187768c"
+  },
+  {
+    "name": "folder",
+    "path": "/folder-index",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\folder-index.vue",
+    "chunkName": "pages/folder-index",
+    "_name": "_f123ea16"
+  },
+  {
+    "name": "games",
+    "path": "/games-index",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\games-index.vue",
+    "chunkName": "pages/games-index",
+    "_name": "_001551f4"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\my-account.vue",
+    "chunkName": "pages/my-account",
+    "_name": "_64f0394e"
+  },
+  {
+    "name": "my-account-modal",
+    "path": "/my-account-modal",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\my-account-modal.vue",
+    "chunkName": "pages/my-account-modal",
+    "_name": "_2ef7976e"
+  },
+  {
+    "name": "paywall-details",
+    "path": "/paywall-details",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\paywall-details.vue",
+    "chunkName": "pages/paywall-details",
+    "_name": "_0dd77595"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_217546ea"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\service.vue",
+    "chunkName": "pages/service",
+    "_name": "_85f1ad3a"
+  },
+  {
+    "name": "thematic-folder",
+    "path": "/thematic-folder",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\thematic-folder.vue",
+    "chunkName": "pages/thematic-folder",
+    "_name": "_433a3780"
+  },
+  {
+    "name": "theme-folder",
+    "path": "/theme-folder",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\theme-folder.vue",
+    "chunkName": "pages/theme-folder",
+    "_name": "_eba69c98"
+  },
+  {
+    "name": "voyages",
+    "path": "/voyages",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\voyages.vue",
+    "chunkName": "pages/voyages",
+    "_name": "_295c8b62"
+  },
+  {
+    "name": "voyages-details",
+    "path": "/voyages-details",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\voyages-details.vue",
+    "chunkName": "pages/voyages-details",
+    "_name": "_9e1f9752"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Client work 2023\\\\February\\\\webdesign_io\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_29f43b00"
+  }
+]
